@@ -272,7 +272,7 @@ Sanksi: *PERMANENT BLOCK*
 ➡️ Mungkin dipengaruhi oleh jaringan, signal, banned oleh Whatsapp dan beberapa asalan. Tetap patuhi rules‼️
 
 🗯️ Dimana saya bisa mendapatkan Script dari bot ini ?
-➡️ Script ini di jual oleh Lexxy Official Jika Minat Chat Wa.me/6283834558105
+➡️ Script ini di jual oleh Shou6ta Jika Minat Chat Wa.me/6281389368689
 
 🗯️ Boleh saya menambah ke grup?
 ➡️ Untuk sementara bot dalam status free to add group.
@@ -314,10 +314,10 @@ _Jika Minat Chat Owner Ketik #owner_
 exports.donasibot = (sender, prefix) => {
    return `
   ‣ *DONASI BOT*
- ➢ DANA = 08xxxxxxx
- ➢ OVO = 08xxxxxxx
- ➢ PULSA = 08xxxxxxx
- ➢ GOPAY = 08xxxxxxx
+ ➢ DANA = 081389368689
+ ➢ OVO = 081389368689
+ ➢ PULSA = 081389368689
+ ➢ GOPAY = 081389368689
  
 Hallo Kak ${ucapanWaktu}
 Beneran Mau Donasi Bot ??
